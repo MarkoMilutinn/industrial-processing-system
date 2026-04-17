@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Logs and runtime artifacts
+*.log
+job_log.txt
+reports/
+
+# OS generated files
+.DS_Store
+Thumbs.db
